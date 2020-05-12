@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=SNAP-PXLMOD
+name=SnapChat Pixel Mod
+version=1.0
+versionCode=1
+author=MLGDash
+description=Converts your phone into a Google Pixel. It's magic

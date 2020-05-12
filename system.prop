@@ -1,0 +1,7 @@
+# This file will be read by resetprop
+ro.product.manufacturer=Google
+ro.product.device=sailfish
+#ro.hardware=sailfish
+ro.product.model=Pixel
+ro.product.brand=google
+
