@@ -1,7 +1,4 @@
-# magisk-module-installer
+# Pixel Mod
 
-This repo only for magisk module template, please read [Developer Guides](https://topjohnwu.github.io/Magisk/guides.html) for instruction on how to create a Magisk Module Installer!.
-
-- Updated repo at     : 20200117
-- Magisk Compatibilty : 20.3+
-
+Makes Apps recognize your phone as Google Pixel (sailfish).
+This improves the camera quality for some devices in Snapchat.
